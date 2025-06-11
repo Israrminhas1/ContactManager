@@ -20,7 +20,7 @@ Contact Manager is a web-based application that allows you to manage your contac
 
 ### Tech Stack
 
-- **Backend:** Laravel 11
+- **Backend:** Laravel 12
 - **Frontend:** Blade Templates + Tailwind CSS
 - **Database:** SQLite (default) / MySQL / PostgreSQL
 - **Architecture:** MVC with Eloquent ORM
